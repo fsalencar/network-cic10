@@ -12,7 +12,7 @@ provider "aws" {
     default_tags {
         tags = {
             Owner   = "Felipe Alencar"
-            Env     = "Producao"
+            Env     = "Producao-ambiente"
             Class   = "CLC10"
         }
     }
